@@ -13,8 +13,11 @@
   
 # Insights with the help of Mysql Query 
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/9df0bf7e-90d6-48fb-9f5c-fc82fda6f1b8)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/d6e2585d-d36a-4e22-a64c-42fda21da3e4)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/25597067-461f-4355-a024-e4a107923008)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/6c53c655-01ab-4214-8630-2725f33c68e1)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/206b030e-d7f3-4b86-a9a4-e2db7296adb1)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c173a3e0-a828-442e-8b91-babcde7b2004)
