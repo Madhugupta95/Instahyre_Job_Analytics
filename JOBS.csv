@@ -1,0 +1,341 @@
+job_id,company_id,location,designation,details_id,Sectors
+1,1,Bangalore,Finance Associate Controller ,1,Finance
+2,1,Bangalore,Finance Associate Reporting ,2,Finance
+3,2,Mumbai,BDE / BDA - Inside Sales ,3,Sales and Business Development
+4,2,Mumbai,Senior Backend Engineer,4,Engineering
+5,3,Mumbai,Key Account Manager ,5,Finance
+6,4,"Bangalore, Hyderabad",Data Analyst / Senior Data Analyst ,6,Data and Analytics
+7,5,"Bangalore, Chennai",Data Scientist ,7,Data and Analytics
+8,5,"Bangalore, Chennai",Product Solution Engineer ,8,Engineering
+9,6,Bangalore,Brand Sales Manager ,9,Sales and Business Development
+10,7,Bangalore,Inside Sales Manager ,10,Sales and Business Development
+11,8,Bangalore,Customer Success Manager ,11,Sales and Business Development
+12,9,"Bangalore, Mumbai",Relationship Manager ,12,Sales and Business Development
+13,9,"Amritsar, Chennai, Delhi",Sales Manager - Portfolio ,13,Sales and Business Development
+14,10,Gurgaon,Blu Smart - Business Development Manager $$ SPP,14,Sales and Business Development
+15,10,Gurgaon,Business Development Manager,15,Sales and Business Development
+16,11,Bangalore,Solution Engineer,16,Engineering
+17,12,Pune,Software Developer,17,IT and Software
+18,12,Pune,Test Engineer,18,Engineering
+19,13,Bangalore,Principal Software Engineer,19,IT and Software
+20,14,Hyderabad,Head of Sourcing ,20,Engineering
+21,15,Indore,Data Analyst,21,Data and Analytics
+22,15,Noida,Data Analysit,22,Data and Analytics
+23,15,Pune,Data Analyst,23,Data and Analytics
+24,15,Hyderabad,Data Analyst,24,Data and Analytics
+25,15,Noida,Software Engineer,25,IT and Software
+26,15,Bangalore,Salesforce Developer - Lead,26,IT and Software
+27,15,Bangalore,Salesforce Developer,27,IT and Software
+28,15,Hyderabad,Salesforce Developer,28,IT and Software
+29,15,Jaipur,Salesforce Developer,29,IT and Software
+30,15,Pune,.NET Core React Developer,30,IT and Software
+31,16,Noida,Core PHP Developer,31,IT and Software
+32,17,Bangalore,Principal Architect,32,IT and Software
+33,17,Hyderabad,Data Scientist,33,Data and Analytics
+34,18,Hyderabad,Full Stack Developer,34,IT and Software
+35,18,Hyderabad,Full Stack Developer II,35,IT and Software
+36,19,Bangalore,Data Analyst,36,Data and Analytics
+37,19,Bangalore,Product Manager,37,Product Management
+38,20,Mumbai,Frontend Developer,38,IT and Software
+39,21,Ahmedabad,Business Development Executive,39,Sales and Business Development
+40,22,Bangalore,Backend Developer,40,IT and Software
+41,23,Hyderabad,Software Engineer II - API and AWS Senior Developer,41,IT and Software
+42,24,Hyderabad,Snowflake Architect,42,IT and Software
+43,24,Hyderabad,C++ Developer,43,IT and Software
+44,25,Bangalore,CISO / IT Risk Manager - AVP,44,IT and Software
+45,26,Bangalore,Dot .NET Backend Developer,45,IT and Software
+46,27,Delhi,Technical Project Manager,46,Project Management
+47,27,Delhi,.NET - Lead,47,IT and Software
+48,27,Delhi,Java Developer,48,IT and Software
+49,28,Bangalore,Golang Developer,49,IT and Software
+50,29,Chandigarh,Full Stack Developer & Lead - Java,50,IT and Software
+51,30,Bangalore,Data Engineer,51,Data and Analytics
+52,30,Bangalore,Data Test Engineer,52,Data and Analytics
+53,30,Bangalore,Full Stack Developer - .NET,53,IT and Software
+54,30,Bangalore,Full Stack Developer - .NET,54,IT and Software
+55,30,Bangalore,Java Developer,55,IT and Software
+56,30,Bangalore,.NET Full Stack,56,IT and Software
+57,30,Bangalore,Machine Learning Engineer,57,IT and Software
+58,30,Bangalore,Xamarin Developer,58,IT and Software
+59,30,Bangalore,Data Engineer,59,Data and Analytics
+60,30,Bangalore,Databricks Developer,60,IT and Software
+61,30,Bangalore,Xamarin Developer (Android Exp),61,IT and Software
+62,31,Pune,Sitecore Developer,62,IT and Software
+63,32,Chennai,Engineering Lead - Mobile,63,IT and Software
+64,33,Bangalore,QA Engineer,64,IT and Software
+65,33,Bangalore,Frontend Developer,65,IT and Software
+66,34,Bangalore,IDQ / IPC Developer,66,IT and Software
+67,35,Bangalore,Backend Developer - .NET,67,IT and Software
+68,36,Delhi,Admission Counsellor,68,Education
+69,37,Bangalore,Software Development Engineer,69,IT and Software
+70,37,Bangalore,Lead Software Development Engineer,70,IT and Software
+71,37,Bangalore,Lead Software Development Engineer,71,IT and Software
+72,37,Bangalore,Software Development Engineer,72,IT and Software
+73,37,Bangalore,Lead Software Development Engineer,73,IT and Software
+74,38,Bangalore,Product Designer,74,Design
+75,39,Hyderabad,Senior Application Architect,75,IT and Software
+76,40,Bangalore,Business Analyst (Credit Risk),76,Finance
+77,41,Delhi,Node.js Developer,77,IT and Software
+78,42,Bangalore,Senior Engineering Manager,78,Engineering
+79,43,Bangalore,Senior Software Developer,79,IT and Software
+80,43,Bangalore,Senior Software Engineer,80,IT and Software
+81,43,Bangalore,Java Developer,81,IT and Software
+82,44,Hyderabad,HRIS Analyst,82,HR and Recruitment
+83,44,Hyderabad,HRIS - Team Lead,83,HR and Recruitment
+84,45,Delhi,HR Recruiter,84,HR and Recruitment
+85,46,Mumbai,Webflow Designer,85,Design
+86,47,Navi Mumbai,Site Operations Engineer,86,Engineering
+87,48,Jodhpur,Product Manager,87,Product Management
+88,49,Mumbai,Senior KAM Enterprise Sales - Banking,88,Sales and Business Development
+89,50,Pune,UI Developer,89,IT and Software
+90,51,Bangalore,SDE 2,90,IT and Software
+91,52,Bangalore,Principal Software Engineer,91,IT and Software
+92,53,Bangalore,iOS Developer,92,IT and Software
+93,54,Hyderabad,Regional Manager,93,Sales and Business Development
+94,55,Bangalore,Assistant Manager - Data Analytics,94,Data and Analytics
+95,56,Mumbai,Data Analyst,95,Data and Analytics
+96,57,Bangalore,Director - Product Design,96,Design
+97,57,Bangalore,Information Security Engineer,97,IT and Software
+98,57,Bangalore,Senior Product Designer,98,Design
+99,57,Bangalore,Director - Product Design,99,Design
+100,57,Bangalore,Information Security Engineer,100,IT and Software
+101,57,Bangalore,Senior Product Designer,101,Design
+102,57,Bangalore,Director - Product Design,102,Design
+103,57,Bangalore,Information Security Engineer,103,IT and Software
+104,57,Bangalore,Senior Product Designer,104,Design
+105,58,Bangalore,Senior Data Scientist,105,Data and Analytics
+106,58,Bangalore,Senior Data Scientist,106,Data and Analytics
+107,58,Bangalore,Senior Data Scientist,107,Data and Analytics
+108,59,Mumbai,Collection Analyst,108,Finance
+109,59,Mumbai,Collection Analytics and Strategy,109,Finance
+110,59,Mumbai,Collection Analyst,110,Finance
+111,59,Mumbai,Collection Analytics and Strategy,111,Finance
+112,59,Mumbai,Collection Analyst,112,Finance
+113,59,Mumbai,Collection Analytics and Strategy,113,Finance
+114,60,Bangalore,Software Development Engineer in Test - 1,114,IT and Software
+115,60,Bangalore,Software Development Engineer in Test - 1,115,IT and Software
+116,60,Bangalore,Software Development Engineer in Test - 1,116,IT and Software
+117,61,Pune,Cloud API Developer,117,IT and Software
+118,61,Pune,Mobile Application Developer,118,IT and Software
+119,61,Pune,Cloud API Developer,119,IT and Software
+120,61,Pune,Mobile Application Developer,120,IT and Software
+121,61,Pune,Cloud API Developer,121,IT and Software
+122,62,Chandigarh,IT Business Development Manager,122,Sales and Business Development
+123,62,Chandigarh,IT Business Development Manager,123,Sales and Business Development
+124,62,Chandigarh,IT Business Development Manager,124,Sales and Business Development
+125,63,Noida,Customer Service Executive,125,Customer Service
+126,63,Noida,Customer Service Executive,126,Customer Service
+127,64,Bangalore,Technical Lead - MS Dynamics,127,IT and Software
+128,64,Bangalore,Technical Lead - MS Dynamics,128,IT and Software
+129,65,Bangalore,DATA Modeler,129,Data and Analytics
+130,65,Bangalore,Release TRAIN Engineer,130,IT and Software
+131,65,Bangalore,AWS LEAD Engineer,131,IT and Software
+132,65,Bangalore,DATA Modeler,132,Data and Analytics
+133,65,Bangalore,Release TRAIN Engineer,133,IT and Software
+134,65,Bangalore,DevOps Engineer,134,Cloud and DevOps
+135,66,Bangalore,AWS Architect / Lead Engineer,135,IT and Software
+136,66,Bangalore,AWS Architect / Lead Engineer,136,IT and Software
+137,67,Mangalore,Senior Python Developer,137,IT and Software
+138,67,Mangalore,Senior Python Developer,138,IT and Software
+139,68,Bangalore,iOS Developer,139,IT and Software
+140,68,Bangalore,iOS Developer,140,IT and Software
+141,68,Bangalore,Golang Developer,141,IT and Software
+142,69,"Bangalore, Chennai, Pune",Senior and Lead C++ Developer,142,IT and Software
+143,69,"Bangalore, Chennai, Pune",Senior and Lead C++ Developer,143,IT and Software
+144,70,Bangalore,"Staff Engineer, - Service Mesh",144,IT and Software
+145,70,Bangalore,"Staff Engineer, - Service Mesh",145,IT and Software
+146,71,Bangalore,Engineering Manager,146,Engineering
+147,72,Hyderabad,Senior HR Manager,147,HR and Recruitment
+148,73,Bangalore,DevOps Engineer,148,Cloud and DevOps
+149,73,Mumbai,Graphic Designer (Senior Executive),149,Design
+150,74,Lucknow,Node.js Developer,150,IT and Software
+151,75,Trivandrum,Dotnet Developer,151,IT and Software
+152,76,Kochi,Network Engineer - L2,152,Networking and Infrastructure
+153,77,Gurgaon,Manager - DevOps,153,Cloud and DevOps
+154,77,Gurgaon,Principal Engineer,154,IT and Software
+155,78,"Bangalore, Hyderabad",Data Engineer,155,Data and Analytics
+156,79,Bangalore,VP - Software,156,IT and Software
+157,80,Pune,Backend Developer - Cloud,157,IT and Software
+158,81,Hyderabad,Oracle Service Cloud Consultant,158,IT and Software
+159,82,Bangalore,Product Manager,159,Product Management
+160,83,Delhi,Testing Lead - Java / . .NET,160,IT and Software
+161,84,Ludhiana,Project Manager,161,Project Management
+162,85,Delhi,ServiceNow Developer,162,IT and Software
+163,86,Chennai,AVP Consultant,163,Consulting
+164,87,Hyderabad,Quality Analyst,164,IT and Software
+165,88,Bangalore,Sr. Devsecops Engineer - Security Specialist,165,IT and Software
+166,89,Chennai,Manager - Creative Project Management,166,Project Management
+167,89,Gurgaon,Specialist - Project Management,167,Project Management
+168,89,Bangalore,3 - D Generalist,168,Design
+169,89,Bangalore,Analyst - Project Management,169,Project Management
+170,89,Mumbai,Senior - Project Management,170,Project Management
+171,90,Bangalore,Fullstack Manager,171,IT and Software
+172,91,Bangalore,Engineering Lead - Platform,172,Engineering
+173,92,Hyderabad,Full Stack Developer - Java,173,IT and Software
+174,93,Chennai,Full Stack Developer - Java,174,IT and Software
+175,94,Bangalore,Associate Director Product Management,175,Product Management
+176,95,Bangalore,Graphic Designer,176,Design
+177,96,Bangalore,Principal Fullstack Developer - Java,177,IT and Software
+178,97,Bangalore,Project Manager,178,Project Management
+179,98,Bangalore,Product Designer Manager,179,Design
+180,99,Mumbai,SAP ABAP Consultant,180,IT and Software
+181,99,Mumbai,SAP ABAP Consultant,181,IT and Software
+182,100,Gurgaon,Brand Manager - Advertisement Space Sales,182,Sales and Business Development
+183,101,Bangalore,Technical Support Engineer,183,IT and Software
+184,102,Noida,Senior Back - End Developer,184,IT and Software
+185,103,Delhi,Java Developer,185,IT and Software
+186,104,Bangalore,Data Engineer / Data Consultant,186,Data and Analytics
+187,105,Indore,Mern Stack Developer,187,IT and Software
+188,106,Pune,Dot .NET Developer - Fullstack,188,IT and Software
+189,107,Mumbai,SAP ABAP Consultant,189,IT and Software
+190,108,Delhi,Social Media Associate,190,IT and Software
+191,109,Mumbai,Account Manager - Sales,191,Sales and Business Development
+192,109,Mumbai,Sales Specialist,192,Sales and Business Development
+193,110,Bangalore,DevOps - 3 / Senior DevOps / SRE,193,IT and Software
+194,111,Bangalore,Security Engineer 1,194,IT and Software
+195,112,Bangalore,AUTOSAR Diagnostics Developer (Onboard Diagnostics),195,IT and Software
+196,113,Mumbai,Retention Marketing,196,Sales and Business Development
+197,114,Gurgaon,NetSuite Consultant - Techno Functional,197,IT and Software
+198,115,Bangalore,Visual Designer,198,IT and Software
+199,116,Bangalore,Senior Product Manager - Payments,199,Sales and Business Development
+200,117,"Bangalore, Chennai",Principal Product Manager,200,Sales and Business Development
+201,118,Chennai,Senior Software Engineer,201,IT and Software
+202,118,Chennai,Senior Software Engineer,202,IT and Software
+203,119,Mumbai,CCIE Trainer,203,IT and Software
+204,66,Bangalore,Test Engineer (Consultant),204,IT and Software
+205,120,Bangalore,Fullstack Developer,205,IT and Software
+206,24,Bangalore,Tosca Tester,206,IT and Software
+207,121,Bangalore,Director - QA,207,IT and Software
+208,122,Bangalore,Senior ML Engineer,208,IT and Software
+209,123,Bangalore,DevOps Engineer - Intern,209,IT and Software
+210,124,Allahabad,Medical Device Representative,210,Sales and Business Development
+211,109,Mumbai,Account Manager - Sales,211,Sales and Business Development
+212,109,Mumbai,Sales Specialist,212,Sales and Business Development
+213,110,Bangalore,DevOps - 3 / Senior DevOps / SRE,213,IT and Software
+214,111,Bangalore,Security Engineer 1,214,IT and Software
+215,112,Bangalore,AUTOSAR Diagnostics Developer (Onboard Diagnostics),215,IT and Software
+216,113,Mumbai,Retention Marketing,216,Sales and Business Development
+217,114,Gurgaon,NetSuite Consultant - Techno Functional,217,IT and Software
+218,115,Bangalore,Visual Designer,218,IT and Software
+219,116,Bangalore,Senior Product Manager - Payments,219,Sales and Business Development
+220,117,"Bangalore, Chennai",Principal Product Manager,220,Sales and Business Development
+221,125,Bangalore,Software Frontend Developer,221,IT and Software
+222,30,Gurgaon,Xamarin Developer (Android),222,IT and Software
+223,126,Bangalore,SDE2,223,IT and Software
+224,127,Bangalore,Software Engineering Manager,224,IT and Software
+225,127,Bangalore,Software Engineering Manager - Mobile,225,IT and Software
+226,128,Bangalore,Software Engineer,226,IT and Software
+227,66,Bangalore,Lead Backend Engineer,227,IT and Software
+228,129,Hyderabad,Snowflake Developer,228,IT and Software
+229,69,"Bangalore, Chennai, Pune",Android Developer,229,IT and Software
+230,130,Bangalore,AV Engineer,230,Engineering
+231,131,Hyderabad,Inside Sales,231,Sales and Business Development
+232,132,Chennai,Accountant,232,Finance
+233,133,Hyderabad,Tableau Developer,233,Data and Analytics
+234,134,Bangalore,Senior Tax Accountant,234,Finance
+235,38,Bangalore,Sales Manager - Lending,235,Sales and Business Development
+236,101,Bangalore,Senior Machine Learning Engineer,236,IT and Software
+237,135,Pune,Fashion Consultant Intern,237,Sales and Business Development
+238,135,Pune,Social Media Marketing Intern,238,IT and Software
+239,136,Bangalore,Data Visualization - 2,239,Data and Analytics
+240,137,Bangalore,Security Engineer,240,IT and Software
+241,138,Bangalore,Public Relations (PR) Associate,241,Sales and Business Development
+242,139,"Indore, Mumbai",Relationship Manager,242,Sales and Business Development
+243,76,Kochi,Wordpress Web Developer,243,IT and Software
+244,140,Bangalore,Project Manager,244,Project Management
+245,141,Mumbai,Video Editing and Motion Graphics,245,IT and Software
+246,142,Bangalore,Senior Unity Developer,246,IT and Software
+247,143,Noida,Software Engineer,247,IT and Software
+248,144,Chennai,React Native Developer,248,IT and Software
+249,80,Pune,Cloud Backend Developer,249,IT and Software
+250,145,Bangalore,Senior Software Engineer - Java,250,IT and Software
+251,146,Gurgaon,Software Engineer,251,IT and Software
+252,90,Bangalore,Lead SDE & SDE - III (Frontend Development),252,IT and Software
+253,72,Hyderabad,Senior Test Engineer,253,IT and Software
+254,147,Gurgaon,Senior Flutter Developer,254,IT and Software
+255,148,"Bangalore, Chennai, Mumbai",Customer Success Manager,255,Sales and Business Development
+256,149,Bangalore,Software Development Engineer - 1 (Backend),256,IT and Software
+257,150,Bangalore,SDE 4,257,IT and Software
+258,151,Mumbai,Ecommerce Marketing Manager,258,Sales and Business Development
+259,51,Bangalore,Software Development Engineer,259,IT and Software
+260,145,Bangalore,Android Developer,260,IT and Software
+261,152,Bangalore,Data Engineer,261,Data and Analytics
+262,153,Hyderabad,Flight Software Developer,262,IT and Software
+263,154,Chennai,Senior Developer,263,IT and Software
+264,155,"Bangalore, Gurgaon, Hyderabad",Senior Tech Associate,264,IT and Software
+265,156,Bangalore,Senior Software Engineer,265,IT and Software
+266,157,Navi Mumbai,HR Executive,266,HR and Recruitment
+267,12,Bangalore,Infotainment Testing,267,IT and Software
+268,158,Bangalore,Technical Program Manager,268,IT and Software
+269,112,Bangalore,AUTOSAR Diagnostics Developer (Memory Stack),269,IT and Software
+270,159,Bangalore,Illustrator / Story Plan Artist,270,Design
+271,160,Bangalore,Jr. Data Analyst,271,Data and Analytics
+272,34,Bangalore,Snowflake Data Engineer,272,IT and Software
+273,161,Bangalore,Account Executive,273,Finance
+274,44,Hyderabad,"Engineer, DevOps",274,IT and Software
+275,162,Bangalore,Product Support Engineer - 1,275,Engineering
+276,121,Bangalore,Application Security,276,IT and Software
+277,163,"Bangalore, Chennai",DevOps Engineer,277,Cloud and DevOps
+278,164,Hyderabad,Big Data Engineer,278,Data and Analytics
+279,165,Bangalore,Lead Product Designer,279,Design
+280,166,Bangalore,Head of Marketing,280,Sales and Business Development
+281,11,Bangalore,Solution Engineer,281,Engineering
+282,167,Mumbai,Interior Designer,282,Engineering
+283,168,Bangalore,Engineering Manager,283,Engineering
+284,168,Bangalore,Principal Engineer,284,IT and Software
+285,168,Bangalore,Software Architect,285,IT and Software
+286,169,Bangalore,HR Head,286,HR and Recruitment
+287,170,Bangalore,Salesforce Developer,287,IT and Software
+288,171,Bangalore,Senior Software Engineer - Frontend,288,IT and Software
+289,93,Chennai,Full Stack,289,IT and Software
+290,116,Bangalore,Senior Devsecops Engineer,290,IT and Software
+291,138,Bangalore,Banking Operation,291,IT and Software
+292,6,Bangalore,Product Manager,292,Product Management
+293,172,Gurgaon,Salesforce Developer,293,IT and Software
+294,173,Gurgaon,Executive Assistant,294,IT and Software
+295,25,Bangalore,IT Project Management Officer (PMO) - AVP,295,IT and Software
+296,174,Bangalore,Senior AI Engineer,296,IT and Software
+297,175,Bangalore,Reconciliation and Settlements Specialist,297,Finance
+298,176,"Bangalore, Hyderabad, Work From Home",Azure Cloudops Engineer,298,Cloud and DevOps
+299,176,"Bangalore, Hyderabad, Work From Home",Java Developer,299,IT and Software
+300,176,"Hyderabad, Work From Home",Java Developer,300,IT and Software
+301,177,Bangalore,Senior UI Designer,301,IT and Software
+302,71,Bangalore,Android Developer (SE / SE2),302,IT and Software
+303,37,Bangalore,Senior Software Development Engineer,303,IT and Software
+304,178,Hyderabad,Business Intelligence Engineer,304,IT and Software
+305,178,Hyderabad,Senior Product Manager,305,Sales and Business Development
+306,179,Bangalore,Software Engineer,306,IT and Software
+307,180,Gurgaon,Tele Caller Executive,307,Sales and Business Development
+308,164,Hyderabad,Big Data Engineer,308,Data and Analytics
+309,49,Bangalore,Senior Machine Learning Researcher,309,IT and Software
+310,123,Bangalore,Backend Developer - SDE1,310,IT and Software
+311,181,Bangalore,Senior DevOps Engineer,311,IT and Software
+312,72,Hyderabad,Senior Test Engineer,312,IT and Software
+313,72,Hyderabad,SSE,313,IT and Software
+314,132,Chennai,Content Writer,314,Content Design
+315,182,Hyderabad,Magento Business Analyst,315,IT and Software
+316,18,Hyderabad,Software Engineer II,316,IT and Software
+317,183,Bangalore,Data Engineer II,317,Data and Analytics
+318,184,Bangalore,Founding Engineer,318,Engineering
+319,185,Hyderabad,Data Modeler,319,IT and Software
+320,186,Gurgaon,Demand Generation Lead,320,Sales and Business Development
+321,89,Bangalore,Motion Graphics,321,Design
+322,187,Faridabad,Sales Manager,322,Sales and Business Development
+323,103,Gurgaon,UX Designer,323,IT and Software
+324,140,Bangalore,Project Manager,324,Project Management
+325,167,Ahmedabad,Interior Designer,325,Engineering
+326,188,Noida,Java Developer With Kafka,326,IT and Software
+327,142,Bangalore,Director of Engineering,327,IT and Software
+328,47,Bangalore,Frontend Engineer,328,IT and Software
+329,48,Noida,SDE - 2 Android,329,IT and Software
+330,8,Bangalore,Technical Project Manager,330,Project Management
+331,72,Hyderabad,Software Testing Engineer (Automation Web + API),331,IT and Software
+332,72,Hyderabad,Software Testing Engineer - Performance Testing,332,IT and Software
+333,189,Gurgaon,Node.js Developer,333,IT and Software
+334,190,Bangalore,Data Engineer,334,Data and Analytics
+335,190,Bangalore,Product Manager,335,Product Management
+336,191,Bangalore,Engineering Manager,336,Engineering
+337,192,Gurgaon,DevOps / Site Reliability - Staff Engineer,337,Cloud and DevOps
+338,192,Gurgaon,SDE III - Frontend,338,IT and Software
+339,192,Gurgaon,Site Reliability Engineer - SDE III,339,IT and Software
+340,192,Gurgaon,Staff Engineer - Frontend,340,IT and Software
