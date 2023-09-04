@@ -18,7 +18,6 @@
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/f17b0808-d0d4-4745-903b-8c2b93c76314)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/84fa5ec7-6aa4-4e23-acfe-6fee04dcbbf4)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ee758233-5fd1-4283-867c-ebe792357d9d)
-![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/d6dc9385-9c21-4690-99e1-3607e511d238)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/944f4d44-da2c-44c3-9ba9-9f87727b927d)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e1a3a2dd-c82b-4996-a8d2-5e70db40ad3d)
 With the help of Job Vaccancies Dashboard we shows that the sector, the number of vacancies, and the number
