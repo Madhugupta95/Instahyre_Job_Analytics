@@ -22,6 +22,8 @@
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/84fa5ec7-6aa4-4e23-acfe-6fee04dcbbf4)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/944f4d44-da2c-44c3-9ba9-9f87727b927d)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e1a3a2dd-c82b-4996-a8d2-5e70db40ad3d)
+![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/d70b356e-512d-43cc-895d-4fe92fe01047)
+
 With the help of Job Vaccancies Dashboard we shows that the sector, the number of vacancies, and the number
 of candidates who have applied for each vacancy.
 ![f_dashboard](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c36943cd-3979-4721-97fc-5dc43e41a5f3)
