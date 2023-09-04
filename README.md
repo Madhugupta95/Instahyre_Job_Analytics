@@ -10,6 +10,9 @@
 
 # 🪨Challenges and 🧠learnings-
 - Web Scrapping | Error Handling | Impressive presentation
+
+# 🤖Techstack-
+-Python | SQL | Excel | M.S. PowerPoint
   
 # Insights with the help of Mysql Query 
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/9df0bf7e-90d6-48fb-9f5c-fc82fda6f1b8)
