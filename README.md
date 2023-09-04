@@ -2,9 +2,11 @@
 
 .Used Selenium library for scraped the data
 
-.For KPIs and insights, leveraged SQL to obtain valuable datasets.
-
 .Then transferred datasets to Excel for visualization.
+
+.Create three tables Jobs,Company and details using Excel
+
+.For KPIs and insights, leveraged SQL to obtain valuable datasets.
 
 .For the presentation, utilized M.S. PowerPoint with the assistance of team members.
 
