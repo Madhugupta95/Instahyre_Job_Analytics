@@ -22,7 +22,6 @@
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/944f4d44-da2c-44c3-9ba9-9f87727b927d)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e1a3a2dd-c82b-4996-a8d2-5e70db40ad3d)
 Job Vaccancies Dashboard																
-![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/4cbee992-d33f-4f61-a4c7-190664efd9a2)
 ![f_dashboard](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c36943cd-3979-4721-97fc-5dc43e41a5f3)
 
 
