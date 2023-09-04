@@ -19,11 +19,17 @@
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/25597067-461f-4355-a024-e4a107923008)
 -----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/6c53c655-01ab-4214-8630-2725f33c68e1)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/206b030e-d7f3-4b86-a9a4-e2db7296adb1)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c173a3e0-a828-442e-8b91-babcde7b2004)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/b3c20eb9-d227-4fab-b01f-dfe28e6dcc2e)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/b3000f57-7e3c-456c-bdf6-d9674a3a2b1c)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/5aa95b70-243f-40ed-b728-37831b8dac02)
+-----------------------------------------------------------------------------------------------------------------------
 
 # PPT Presentation
 ![image]![f2](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ce96be57-e716-41cf-b56b-627954a1e569)
