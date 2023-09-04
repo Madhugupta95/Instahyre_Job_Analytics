@@ -12,7 +12,6 @@
 # PPT Presentation
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/644c26aa-98e9-4875-a2fc-582842630411)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c3a35447-12d2-4162-82ba-be5d18e8010c)
-![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/74ec841e-734c-4ffd-94aa-c2d00ae2469c)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e6b3fd1d-710f-4c90-97b4-5d2f53599a1e)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/f17b0808-d0d4-4745-903b-8c2b93c76314)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/84fa5ec7-6aa4-4e23-acfe-6fee04dcbbf4)
