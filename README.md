@@ -2,11 +2,11 @@
 
 .Used Selenium library for scraped the data
 
-.For K.P.I.’s and insights Used SQL to get useful data sets.
+.For KPIs and insights, leveraged SQL to obtain valuable datasets.
 
 .Then transferred datasets to Excel for visualization.
 
-.For the presentation used M.S. PowerPoint with the help of team members.
+.For the presentation, utilized M.S. PowerPoint with the assistance of team members.
 
 # 🪨Challenges and 🧠learnings-
 - Web Scrapping | Error Handling | Impressive presentation
