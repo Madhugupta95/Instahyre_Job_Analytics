@@ -12,6 +12,10 @@
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/644c26aa-98e9-4875-a2fc-582842630411)
 ![image] (https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/5189d844-703f-4843-aa47-6997a353ed76)
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/13352355-d1e5-45d1-98a0-7a8f2c0212a7)
+![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/74ec841e-734c-4ffd-94aa-c2d00ae2469c)
+![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e6b3fd1d-710f-4c90-97b4-5d2f53599a1e)
+
+
 
 
 
