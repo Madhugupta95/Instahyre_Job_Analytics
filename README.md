@@ -1,8 +1,11 @@
 # Instahyre_Job_Analytics-📑Brief Summary
 
 .Used Selenium library for scraped the data
+
 .For K.P.I.’s and insights Used SQL to get useful data sets.
+
 .Then transferred datasets to Excel for visualization.
+
 .For the presentation used M.S. PowerPoint with the help of team members.
 
 # 🪨Challenges and 🧠learnings-
