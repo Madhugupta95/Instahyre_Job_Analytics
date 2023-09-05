@@ -61,7 +61,7 @@ This project is for For learning purposes.So we see that job market's dynamics, 
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/d70b356e-512d-43cc-895d-4fe92fe01047)
 -----------------------------------------------------------------------------------------------------------------------
 
-With the help of Job Vaccancies Dashboard we shows that the sector, the number of vacancies, and the number
+With the help of Job Vacancies Dashboard we shows that the sector, the number of vacancies, and the number
 of candidates who have applied for each vacancy.
 ![f_dashboard](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c36943cd-3979-4721-97fc-5dc43e41a5f3)
 Check out this link for Excel Dashboard & Visualization:
