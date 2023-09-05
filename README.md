@@ -67,7 +67,7 @@ of candidates who have applied for each vacancy.
 Check out this link for Excel Dashboard & Visualization:
 https://github.com/Madhugupta95/Instahyre_Job_Analytics/blob/main/job%20vaccancies%20dashboard.xlsx
 
-
+-----------------------------------------------------------------------------------------------------------------------
 __Thanks for visit my Readme file__
 
 
