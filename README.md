@@ -40,7 +40,7 @@ This project is for For learning purposes.So we see that job market's dynamics, 
 -----------------------------------------------------------------------------------------------------------------------
 
 # PPT Presentation
-![f2](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ce96be57-e716-41cf-b56b-627954a1e569)
+![f6](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/6b9c15df-44e5-44c6-a3dc-c681a78f913d)
 -----------------------------------------------------------------------------------------------------------------------
 ![f3](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ebffc435-99e0-4fe4-b1b8-d627001c54ea)
 -----------------------------------------------------------------------------------------------------------------------
