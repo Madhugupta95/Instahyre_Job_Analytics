@@ -41,15 +41,25 @@ This project is for For learning purposes.So we see that job market's dynamics, 
 
 # PPT Presentation
 ![image]![f2](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ce96be57-e716-41cf-b56b-627954a1e569)
+-----------------------------------------------------------------------------------------------------------------------
 ![f3](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/ebffc435-99e0-4fe4-b1b8-d627001c54ea)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/c3a35447-12d2-4162-82ba-be5d18e8010c)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/74ec841e-734c-4ffd-94aa-c2d00ae2469c)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e6b3fd1d-710f-4c90-97b4-5d2f53599a1e)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/f17b0808-d0d4-4745-903b-8c2b93c76314)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/84fa5ec7-6aa4-4e23-acfe-6fee04dcbbf4)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/944f4d44-da2c-44c3-9ba9-9f87727b927d)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/e1a3a2dd-c82b-4996-a8d2-5e70db40ad3d)
+-----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/d70b356e-512d-43cc-895d-4fe92fe01047)
+-----------------------------------------------------------------------------------------------------------------------
 
 With the help of Job Vaccancies Dashboard we shows that the sector, the number of vacancies, and the number
 of candidates who have applied for each vacancy.
