@@ -1,6 +1,6 @@
 # Instahyre_Job_Analytics-📑Brief Summary
 
-.Used Selenium library for scraped the data
+* Used Selenium library for scraped the data
 
 .Then transferred datasets to Excel for visualization.
 
