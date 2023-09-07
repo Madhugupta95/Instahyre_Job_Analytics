@@ -2,19 +2,19 @@
 
 * Used Selenium library for scraped the data
 
-.Then transferred datasets to Excel for visualization.
+* Then transferred datasets to Excel for visualization.
 
-.Create three tables Jobs,Company and details using Excel
+* Create three tables Jobs,Company and details using Excel
 
-.For KPIs and insights, leveraged SQL to obtain valuable datasets.
+* For KPIs and insights, leveraged SQL to obtain valuable datasets.
 
-.For the presentation, utilized M.S. PowerPoint with the assistance of team members.
+* For the presentation, utilized M.S. PowerPoint with the assistance of team members.
 
 # 🪨Challenges and 🧠learnings-
-- Web Scrapping | Error Handling | Impressive presentation
+* Web Scrapping | Error Handling | Impressive presentation
 
 # 🤖Techstack-
--Python | SQL | Excel | M.S. PowerPoint
+* Python | SQL | Excel | M.S. PowerPoint
 
 # 🎯 Goal
 This project is for For learning purposes.So we see that job market's dynamics, emphasizing the regional variations, sector-specific trends, company size impacts, and the significance of specific skills in the IT industry. 
