@@ -1,3 +1,5 @@
+![image](https://github.com/Madhugupta95/Instahyre_Job_Analytics/assets/117964914/f67bf600-08b7-4d85-be4a-b1adc62534b9)
+
 # Instahyre_Job_Analytics-📑Brief Summary
 
 * Used Selenium library for scraped the data
